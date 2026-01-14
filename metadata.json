@@ -1,0 +1,7 @@
+{
+  "name": "OK PDF",
+  "description": "Split, merge, read, and convert images to PDF with ease.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
